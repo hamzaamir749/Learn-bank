@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/iconhome"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_easy_writing"
+            android:icon="@drawable/ic_writing"
+            android:title="Easy Writing" />
+
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/ic_rating"
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/nav_terms_condition"
+            android:icon="@drawable/ic_terms"
+            android:title="Terms &amp; Condition" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_aboutus"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="Share" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Log out" />
+    </group>
+</menu>

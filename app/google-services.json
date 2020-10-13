@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664306322664",
+    "firebase_url": "https://learningbank-95b58.firebaseio.com",
+    "project_id": "learningbank-95b58",
+    "storage_bucket": "learningbank-95b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664306322664:android:41b45093619e76b7fa0d5d",
+        "android_client_info": {
+          "package_name": "com.coderpakistan.learningbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664306322664-872rnmumb4i69mdlti9m5cussamsi9m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coderpakistan.learningbank",
+            "certificate_hash": "c55286a528ff81a597df351a441590f39e0f7b77"
+          }
+        },
+        {
+          "client_id": "664306322664-n0s5f4cvrh5ma82q5kjp53qpoeh14aiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqCA9Ny2E2vvkNpEcLzd5J7U_SEp_hqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664306322664-n0s5f4cvrh5ma82q5kjp53qpoeh14aiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
